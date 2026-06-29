@@ -6,6 +6,9 @@ A simple weather application built using HTML, CSS, and JavaScript. It fetches r
  2. Live weather data using WeatherAPI
  3. Displays temperature, condition, humidity, and weather icon
  4. Error handling for invalid city names using try...catch
+
+## Live Website Link ##
+https://weather-cast-peach.vercel.app/
 ## Screenshots
 ![Project Screenshot](p.png)
 ![Project Screenshot](q.png)
