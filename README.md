@@ -6,3 +6,7 @@ A simple weather application built using HTML, CSS, and JavaScript. It fetches r
  2. Live weather data using WeatherAPI
  3. Displays temperature, condition, humidity, and weather icon
  4. Error handling for invalid city names using try...catch
+## Screenshots
+![Project Screenshot](Screenshot(54).png)
+![Project Screenshot](Screenshot(55).png)
+![Project Screenshot](Screenshot(56).png)
