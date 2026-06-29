@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather-Cast</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Weather-Cast</h1>
+        <div class="search-box">
+ <input
+        type="text"
+        id="cityInput"
+        placeholder="Enter city name"
+    >
+
+    <button id="searchBtn">Search</button>
+    </div>
+        <div class="weather-card">
+            <h2 id="city">Loading...</h2>
+       <img id="weatherIcon" alt="Weather Icon">
+            <p>🌡 Temperature: <span id="temperature">--</span>°C</p>
+
+            <p>☁ Condition: <span id="condition">--</span></p>
+
+            <p>💧 Humidity: <span id="humidity">--</span>%</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
